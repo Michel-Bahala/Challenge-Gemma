@@ -31,7 +31,7 @@ Audio : gTTS (Google Text-to-Speech)
 Clonez le dépôt :
 
 Bash
-git clone https://github.com/votre-nom-dutilisateur/pesa-dispo.git
+https://github.com/Michel-Bahala/Challenge-Gemma
 cd pesa-dispo
 Installez les dépendances :
 Utilisez le fichier requirements.txt fourni :
