@@ -35,6 +35,3 @@ https://github.com/Michel-Bahala/Challenge-Gemma
 cd pesa-dispo
 Installez les dépendances :
 Utilisez le fichier requirements.txt fourni :
-
-Bash
-pip install -r requirements.txt
