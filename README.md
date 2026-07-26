@@ -1,6 +1,6 @@
 # Challenge-Gemma
 PESA DISPO est une plateforme intelligente d'octroi de crédit multi-secteur propulsée par l'IA (LightGBM & Gemma) et Gradio. Elle automatise et sécurise l'analyse des dossiers pour particuliers, entreprises et jeunes entrepreneurs en moins de 5 secondes.
-lien vers l'app  https://9d486d51bd56162835.gradio.live/
+lien vers l'app  https://ef22f85a975377fe41.gradio.live
 🌟 Fonctionnalités Principales
 Gestion Multi-Secteur : Traitement segmenté et structuré pour les Prêts Particuliers, Prêts Entreprises et Prêts Jeunes Entrepreneurs via des tables SQLite dédiées.
 
