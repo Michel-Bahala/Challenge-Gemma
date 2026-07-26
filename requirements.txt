@@ -1,0 +1,7 @@
+gradio
+lightgbm
+pandas
+gtts
+transformers
+bitsandbytes
+numpy
